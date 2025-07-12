@@ -13,7 +13,7 @@ void Change(vector<int> & v){
             j--;
         }
         if(v[i]>0) i++;
-        if(v[j]<0) j--;
+        if(v[j]<0)j--;
     }
 
 
